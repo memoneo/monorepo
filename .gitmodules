@@ -1,0 +1,15 @@
+[submodule "api"]
+	path = api
+	url = https://gitlab.com/memoneo/api
+[submodule "app-mobile"]
+	path = app-mobile
+	url = https://gitlab.com/memoneo/app-mobile
+[submodule "asr"]
+	path = asr
+	url = https://gitlab.com/memoneo/asr
+[submodule "common"]
+	path = common
+	url = https://gitlab.com/memoneo/common
+[submodule "site"]
+	path = site
+	url = https://gitlab.com/memoneo/site
