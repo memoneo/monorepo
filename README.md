@@ -6,16 +6,16 @@ My main motivation is to control my own data and adjust the tracking for my spec
 
 ## Repos
 ### api
-The REST API backend for Memoneo. This repo is private. Runs on Heroku.
+The vert.x REST API backend for Memoneo. This repo is private. Runs on Heroku.
 
 ### asr
-The API which provides an endpoint to transcribe speech to text. The API uses Deepspeech.rs (0.61). For now the performance is not good enough which is why I don't use it personally for now. Deepspeech 0.7 has been released and improved the performance a bit. So maybe there's promise.
+The warp API which provides a single endpoint to transcribe speech to text. The API uses Deepspeech.rs (0.61). For now the model performance is not good enough which is why I don't use it personally for now. Deepspeech 0.7 has been released and improved the performance a bit (but not by a margin which is sufficient). So maybe there's promise in the future.
 
 ### app-mobile
 The React Native mobile app which I use to track data points of my life. This repo is private.
 
 ### site
-A very basic demo promotional page.
+A very basic demo promotional page. Not optimized for mobile.
 
 Can be visited at: https://memoneo.gitlab.io/site
 
