@@ -1,8 +1,15 @@
-# Memoneo
+<p align="center">
+    <br>
+    <img src="https://memoneo.gitlab.io/site/static/logo.svg" width="128"/>
+    <br>
+<p>
 
-Memoneo is a mobile app that I'm building to track my personal goals, progress, general state of mind, events etc. via speech and text. 
+# Memoneo - mood tracker and diary
 
-My main motivation is to control my own data and adjust the tracking for my specific personal needs.
+Memoneo is a mobile app that I'm building to track my personal goals, progress, general state of mind, events etc. via speech and text. My main motivation is to control my own data and adjust the tracking for my specific personal needs.
+
+<br>
+<img src="https://memoneo.gitlab.io/site/static/demo.jpg" width="300" />
 
 ## Repos
 ### api
